@@ -9,7 +9,7 @@ const Box = styled.div`
   height: 500px;
   width: 400px;
   position: relative;
-  background: grey;
+  background: rgba(0,0,0,0.1);
 `
 
 const App = _ => (
